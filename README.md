@@ -29,7 +29,9 @@ Wanting to start a bike share business in Des Moines, Iowa, I am analysing data 
 - Heatmap showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender
 
 
-## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+## Summary: 
+
+[link to dashboard](https://public.tableau.com/app/profile/jeremy.ocain/viz/BikeTripAnalysis_16321721152590/BikeTripAnalysis?publish=yes)
 
 - 81% of users are paid subscribers to the bike service. 19% are occasioanl customers.
 - Peak riding hours are between 7:00 AM and 9:00 PM, with the most traffic occuring between 7:00 AM - 10:00 AM and 4:00 PM - 9:00 PM. 
